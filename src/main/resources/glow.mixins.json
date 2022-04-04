@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.unrealdinnerbone.glow.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "glow.refmap.json",
+  "mixins": [
+    "LEMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8.1"
+}

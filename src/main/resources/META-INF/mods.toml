@@ -1,0 +1,8 @@
+modLoader = "javafml"
+loaderVersion = "[36,)"
+license = "I"
+[[mods]]
+modId = "glow"
+version = "${file.jarVersion}"
+displayName = "GLOW"
+description = "Makes you glow when you eat glowberries"
